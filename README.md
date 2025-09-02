@@ -25,7 +25,7 @@ import { captcha } from './captcha.js'
 let human = captcha.human
 ```
 これに対する出力例は
-・`null` : 未検査
+・`null` : 未検査</br>
 ・`true` : 人間であることが確認できた
 ・`false`: 人間であることが確認できなかった
 
