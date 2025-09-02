@@ -6,4 +6,4 @@
 
 ## インポート
 
-まず当リポジトリを丸々ダウンロードするか、[capture.js](./capture.js)
+まず当リポジトリを丸々ダウンロードするか、[capture.js](./captcha.js)
